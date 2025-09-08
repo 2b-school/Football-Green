@@ -129,7 +129,7 @@ header p {
     }
 
 img.hero {
-  width: 50%;
+  width: 25%;
   height: auto;
   object-fit: cover;
   display: block;
@@ -429,3 +429,4 @@ section {
   margin: 0;
   background-color: #eee;
 }
+
